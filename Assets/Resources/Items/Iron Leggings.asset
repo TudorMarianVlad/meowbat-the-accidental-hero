@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b54e340d1265d7048aa4c57d23372248, type: 3}
+  m_Name: Iron Leggings
+  m_EditorClassIdentifier: 
+  itemName: Iron Leggings
+  itemID: Iron Leggings
+  icon: {fileID: -8534587837271114332, guid: 418e00012acce944e9319be166f13fea, type: 3}
+  equipmentPrefab: {fileID: 0}
+  itemType: 5
+  isRangedWeapon: 0
+  isStackable: 0
+  maxStackSize: 20
+  healAmount: 0
+  armorValue: 15
+  projectilePrefab: {fileID: 0}
+  launchForce: 10
+  buyPrice: 3000

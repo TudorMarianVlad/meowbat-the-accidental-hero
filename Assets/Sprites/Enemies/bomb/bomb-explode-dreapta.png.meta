@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: b2f38e93fe809e24ca9a18855a741acc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4054091750171891502
+    second: bomb-explode-dreapta_0
+  - first:
+      213: -8204144539831536330
+    second: bomb-explode-dreapta_1
+  - first:
+      213: 1077332500027298478
+    second: bomb-explode-dreapta_2
+  - first:
+      213: -8376125877681608412
+    second: bomb-explode-dreapta_3
+  - first:
+      213: -9127245308014484325
+    second: bomb-explode-dreapta_4
+  - first:
+      213: 2738640823711773471
+    second: bomb-explode-dreapta_5
+  - first:
+      213: 6637527473693764694
+    second: bomb-explode-dreapta_6
+  - first:
+      213: -8947552326474136043
+    second: bomb-explode-dreapta_7
+  - first:
+      213: -2253768925749115795
+    second: bomb-explode-dreapta_8
+  - first:
+      213: 2066573401373758168
+    second: bomb-explode-dreapta_9
+  - first:
+      213: 277473884390403279
+    second: bomb-explode-dreapta_10
+  - first:
+      213: 3661257280183460805
+    second: bomb-explode-dreapta_11
+  - first:
+      213: -5306420478444207487
+    second: bomb-explode-dreapta_12
+  - first:
+      213: 4508521987050017375
+    second: bomb-explode-dreapta_13
+  - first:
+      213: 3257861228696885378
+    second: bomb-explode-dreapta_14
+  - first:
+      213: -3248398992882985490
+    second: bomb-explode-dreapta_15
+  - first:
+      213: 5153534797185174365
+    second: bomb-explode-dreapta_16
+  - first:
+      213: 7646341252590943497
+    second: bomb-explode-dreapta_17
+  - first:
+      213: 6766602174204153267
+    second: bomb-explode-dreapta_18
+  - first:
+      213: 4841748952712652158
+    second: bomb-explode-dreapta_19
+  - first:
+      213: 2427131613841782754
+    second: bomb-explode-dreapta_20
+  - first:
+      213: -8525624174532555674
+    second: bomb-explode-dreapta_21
+  - first:
+      213: -6981441322995918257
+    second: bomb-explode-dreapta_22
+  - first:
+      213: 4643484668688372779
+    second: bomb-explode-dreapta_23
+  - first:
+      213: -1295459082685246897
+    second: bomb-explode-dreapta_24
+  - first:
+      213: 5086213870356493699
+    second: bomb-explode-dreapta_25
+  - first:
+      213: -2247907651065353126
+    second: bomb-explode-dreapta_26
+  - first:
+      213: 4812582707484301677
+    second: bomb-explode-dreapta_27
+  - first:
+      213: 3157578614861025319
+    second: bomb-explode-dreapta_28
+  - first:
+      213: -1879454744895638955
+    second: bomb-explode-dreapta_29
+  - first:
+      213: 8385890251755069123
+    second: bomb-explode-dreapta_30
+  - first:
+      213: 7380628169547881741
+    second: bomb-explode-dreapta_31
+  - first:
+      213: -2547280186846061098
+    second: bomb-explode-dreapta_32
+  - first:
+      213: 3478165278280754191
+    second: bomb-explode-dreapta_33
+  - first:
+      213: -5309617219081070767
+    second: bomb-explode-dreapta_34
+  - first:
+      213: 4980112868703432073
+    second: bomb-explode-dreapta_35
+  - first:
+      213: 823686898878234121
+    second: bomb-explode-dreapta_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2756df97f6034830800000000000000
+      internalID: 4054091750171891502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63571692206052e80800000000000000
+      internalID: -8204144539831536330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea25c19633473fe00800000000000000
+      internalID: 1077332500027298478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a4d294e502cb80800000000000000
+      internalID: -8376125877681608412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9422f520c2855180800000000000000
+      internalID: -9127245308014484325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1339b8b15b910620800000000000000
+      internalID: 2738640823711773471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca968f11c3d1c50800000000000000
+      internalID: 6637527473693764694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5160a43b098e3d380800000000000000
+      internalID: -8947552326474136043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6409ee5a1109b0e0800000000000000
+      internalID: -2253768925749115795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d257233f81fdac10800000000000000
+      internalID: 2066573401373758168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcca9891709c9d300800000000000000
+      internalID: 277473884390403279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-dreapta_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3e5a029166fc230800000000000000
+      internalID: 3661257280183460805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f89f9d986944abe47ac86be8ebab7c27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomb-explode-dreapta_0: 4054091750171891502
+      bomb-explode-dreapta_1: -8204144539831536330
+      bomb-explode-dreapta_10: 277473884390403279
+      bomb-explode-dreapta_11: 3661257280183460805
+      bomb-explode-dreapta_2: 1077332500027298478
+      bomb-explode-dreapta_3: -8376125877681608412
+      bomb-explode-dreapta_4: -9127245308014484325
+      bomb-explode-dreapta_5: 2738640823711773471
+      bomb-explode-dreapta_6: 6637527473693764694
+      bomb-explode-dreapta_7: -8947552326474136043
+      bomb-explode-dreapta_8: -2253768925749115795
+      bomb-explode-dreapta_9: 2066573401373758168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

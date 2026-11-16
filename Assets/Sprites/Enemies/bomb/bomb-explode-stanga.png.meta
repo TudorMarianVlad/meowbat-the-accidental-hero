@@ -1,0 +1,508 @@
+fileFormatVersion: 2
+guid: e5c71d3f4f107ca4eba166d6fb4e0afe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5751143674646439606
+    second: bomb-explode-stanga_0
+  - first:
+      213: 3049432920543403748
+    second: bomb-explode-stanga_1
+  - first:
+      213: 1928671632677996496
+    second: bomb-explode-stanga_2
+  - first:
+      213: -1737330214625736641
+    second: bomb-explode-stanga_3
+  - first:
+      213: 3708172611858143669
+    second: bomb-explode-stanga_4
+  - first:
+      213: -6024409230609506318
+    second: bomb-explode-stanga_5
+  - first:
+      213: -1520064806298071164
+    second: bomb-explode-stanga_6
+  - first:
+      213: -4620269002300245839
+    second: bomb-explode-stanga_7
+  - first:
+      213: -3741982928233952451
+    second: bomb-explode-stanga_8
+  - first:
+      213: -6258828597792230128
+    second: bomb-explode-stanga_9
+  - first:
+      213: 2800025055792487940
+    second: bomb-explode-stanga_10
+  - first:
+      213: -2662733065597180682
+    second: bomb-explode-stanga_11
+  - first:
+      213: 4265566811868093204
+    second: bomb-explode-stanga_12
+  - first:
+      213: 233681657925126967
+    second: bomb-explode-stanga_13
+  - first:
+      213: -8036156964067806507
+    second: bomb-explode-stanga_14
+  - first:
+      213: -6907865810884295454
+    second: bomb-explode-stanga_15
+  - first:
+      213: -3917696154744186138
+    second: bomb-explode-stanga_16
+  - first:
+      213: 753081472474213433
+    second: bomb-explode-stanga_17
+  - first:
+      213: 8704623302455524517
+    second: bomb-explode-stanga_18
+  - first:
+      213: -7772389737869563029
+    second: bomb-explode-stanga_19
+  - first:
+      213: -3477104114131212320
+    second: bomb-explode-stanga_20
+  - first:
+      213: -8863691633181203244
+    second: bomb-explode-stanga_21
+  - first:
+      213: -2087488550172588513
+    second: bomb-explode-stanga_22
+  - first:
+      213: -8075975951103148541
+    second: bomb-explode-stanga_23
+  - first:
+      213: -5527756650615416979
+    second: bomb-explode-stanga_24
+  - first:
+      213: -7471928714934935755
+    second: bomb-explode-stanga_25
+  - first:
+      213: 539643777444675261
+    second: bomb-explode-stanga_26
+  - first:
+      213: 4491728275830388767
+    second: bomb-explode-stanga_27
+  - first:
+      213: 732195660884768397
+    second: bomb-explode-stanga_28
+  - first:
+      213: -622460081646239366
+    second: bomb-explode-stanga_29
+  - first:
+      213: 3856252681339168612
+    second: bomb-explode-stanga_30
+  - first:
+      213: 7540410219224029467
+    second: bomb-explode-stanga_31
+  - first:
+      213: 8877136045727766230
+    second: bomb-explode-stanga_32
+  - first:
+      213: 9179579867331199675
+    second: bomb-explode-stanga_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb-explode-stanga_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6298383ba20df40800000000000000
+      internalID: 5751143674646439606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee1f5ba513c15a20800000000000000
+      internalID: 3049432920543403748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d70522a1a404ca10800000000000000
+      internalID: 1928671632677996496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f380ea3ef53c3e7e0800000000000000
+      internalID: -1737330214625736641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b913aff753167330800000000000000
+      internalID: 3708172611858143669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff9fe339bff46ca0800000000000000
+      internalID: -6024409230609506318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fc701cc15a7eae0800000000000000
+      internalID: -1520064806298071164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8352752d181efb0800000000000000
+      internalID: -4620269002300245839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b0a074a5ec11cc0800000000000000
+      internalID: -3741982928233952451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015b98e0d8c2429a0800000000000000
+      internalID: -6258828597792230128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e54bcf3ffabd620800000000000000
+      internalID: 2800025055792487940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bomb-explode-stanga_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a46572621c0bd0800000000000000
+      internalID: -2662733065597180682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4d0c6bffbaffbf5408a5ad3a52a9e959
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bomb-explode-stanga_0: 5751143674646439606
+      bomb-explode-stanga_1: 3049432920543403748
+      bomb-explode-stanga_10: 2800025055792487940
+      bomb-explode-stanga_11: -2662733065597180682
+      bomb-explode-stanga_2: 1928671632677996496
+      bomb-explode-stanga_3: -1737330214625736641
+      bomb-explode-stanga_4: 3708172611858143669
+      bomb-explode-stanga_5: -6024409230609506318
+      bomb-explode-stanga_6: -1520064806298071164
+      bomb-explode-stanga_7: -4620269002300245839
+      bomb-explode-stanga_8: -3741982928233952451
+      bomb-explode-stanga_9: -6258828597792230128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
